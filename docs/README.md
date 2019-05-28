@@ -1,2 +1,11 @@
-# onoffjs-checker
-Online of Offline Internet Checker in Browser.
+## Installation
+
+```
+$ npm i --save onoffjs-checker
+```
+
+## Usage
+
+```
+import onoff from 'onoffjs-checker';
+```
