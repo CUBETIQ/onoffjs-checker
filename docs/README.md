@@ -9,3 +9,8 @@ $ npm i --save onoffjs-checker
 ```
 import onoff from 'onoffjs-checker';
 ```
+
+### Testing Documentation
+
+- Setting up
+- JavaScript requirement
